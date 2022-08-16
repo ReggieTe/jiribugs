@@ -9,3 +9,5 @@
 - Submit screenshots if any are available
 - Ask our team for review 
 - If it's a valid bug ,$1 will be deposited to your paypal account
+
+Bug hunt program will start 30 September 2022
